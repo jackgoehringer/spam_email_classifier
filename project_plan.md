@@ -1,5 +1,5 @@
 # Spam Email Classifier - Project Plan
-
+## Group 9 - Jack Goehringer, Vincent Zhang
 ## Requirements List
 
 1. **Data Loading**: Read the Spam or Not Spam Dataset from a CSV file.
