@@ -1,4 +1,3 @@
 # spam_email_classifier
 
-Contributors: Jack Goehringer, 
-Contributors: Vincent Zhang,
+Contributors: Jack Goehringer, Vincent Zhang
