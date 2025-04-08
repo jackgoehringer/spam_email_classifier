@@ -12,7 +12,7 @@ feature. This can be accomplished in many ways. A very simplified tabular exampl
 is the feature name, and rest of the rows are the values, the first column is not a feature but just an id for 
 the email:
 Note that some emails may not have a value for the count of a parBcular word, so the full list of 
-features isn’t known unBl a`er all the emails are processed. 
+features isn’t known untill after all the emails are processed. 
 Once the features are created, your program should have a way to display the features of an individual 
 email. It should also have a way to display a summary of the features of a group of emails. 
 You could use basic statistics such as min, max, median, mean, 
