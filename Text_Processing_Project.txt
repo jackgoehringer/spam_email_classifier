@@ -11,7 +11,7 @@ These features are ultimately going to be a list of values where each value is a
 feature. This can be accomplished in many ways. A very simplified tabular example is the first row 
 is the feature name, and rest of the rows are the values, the first column is not a feature but just an id for 
 the email:
-Note that some emails may not have a value for the count of a parBcular word, so the full list of 
+Note that some emails may not have a value for the count of a particular word, so the full list of 
 features isn’t known untill after all the emails are processed. 
 Once the features are created, your program should have a way to display the features of an individual 
 email. It should also have a way to display a summary of the features of a group of emails. 
@@ -21,7 +21,7 @@ in different fractions of the documents.
 Since, this could be a lot of information, your program should save the email feature data and summary 
 feature data to two separate csv files so that they could be read by a spreadsheet or statistics package. In 
 addition, you may want to create a GUI for visualization. 
-In addiBon to creating the features, there should be a method that can take one set of email features 
+In addition to creating the features, there should be a method that can take one set of email features 
 and another set of email features and produce a numeric distance between the two emails. Similarly, a 
 set of email features should be able to have a distance from the summary data of a group of emails. 
 Your program should be able to read in a model of spam and a model of not spam, then it should be able 
